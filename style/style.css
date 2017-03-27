@@ -87,3 +87,12 @@ select {
   height: 30px;
   color: black;
 }
+nav {
+  border-radius: 10px;
+}
+.card.blue-grey.darken-1.row {
+  border-radius: 10px;
+}
+.btn {
+  background-color: #25d366;
+}
