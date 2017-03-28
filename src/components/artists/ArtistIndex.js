@@ -41,7 +41,7 @@ class ArtistIndex extends Component {
           </p>
         </div>
         <Link to={`artists/${artist._id}`} className="secondary-content">
-           <i className="material-icons">></i>
+           <i className="material-icons">play_circle_outline</i>
          </Link>
       </li>
     );
